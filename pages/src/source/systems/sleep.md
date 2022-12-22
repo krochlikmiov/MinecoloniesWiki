@@ -4,7 +4,7 @@ layout: default
 ---
 # Sleep System
 
-No matter how busy your thriving colony is, your colonists need to sleep. At the end of each day until sunrise the next day, they will go to their homes and sleep in their beds.
+No matter how busy your thriving colony is, your colonists need to sleep. At the end of each day until sunrise the next day, they will go to their homes and sleep in their beds. If you want your colonists to work at their best, ensure you're the last one to bed once you've been notified that "All colonists are tucked into bed".
 
 ## Happiness
 
